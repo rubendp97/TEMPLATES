@@ -1,0 +1,41 @@
+.recuadro {
+  margin: 0 3em 6em;
+  
+}
+.btn2 {
+  background-color: #4286f4; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+}
+.imagenes{
+	position: relative;
+	left: 23px;
+	
+}
+.input_text{
+	position: relative;
+	left: 250px;
+	top: -10px;
+	height: 100px;
+	width: 400px;
+	
+     border: 1px solid #39c;
+	 background-color: #eee;
+	 border: 0;
+}
+.cid-rhFKZ6QvKs{
+	position: relative;
+	top:800px;
+	
+}
+.body{
+min-width:600px;
+min-height:800px ;
+}
+	
+
